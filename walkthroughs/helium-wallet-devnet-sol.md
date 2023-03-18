@@ -1,7 +1,10 @@
 # Helium Wallet Devnet SOL
 
 This tutorial will allow you to Preview the Solana experience in your <a href="https://docs.helium.com/wallets/helium-wallet-app/" target="_blank">Helium Wallet App</a>
-and, after <a href="https://docs.solana.com/cli/install-solana-cli-tools" target="_blank">installing the Solana Tool Suite CLI</a> on your machine, airdrop yourself some devnet SOL, HNT, IOT, and MOBILE.
+and, after <a href="https://docs.solana.com/cli/install-solana-cli-tools" target="_blank">installing the Solana Tool Suite CLI</a> on your machine, airdrop yourself some devnet SOL, HNT, IOT, and MOBILE.<br>
+<p align="center">
+<img src="images/solanapreview.png" width="400">
+  </p>
 
 ## Remember!
 Your seedphrase is your password to your wallet. Do not share it with anyone. Do not screen shot, email, or text it to yourself. Write it on paper or engrave it in metal and <b>DO NOT LOSE IT</b>. The devnet is a real copy of the Solana blockchain being provided to allow builders to deploy programs and test transactions.
@@ -12,8 +15,10 @@ If you want to build projects of your own, you may need devnet tokens. Here's ho
 ## Update the Helium Wallet App
 The <a href="https://docs.helium.com/wallets/helium-wallet-app/" target="_blank">Helium Wallet App</a> is the official open source wallet for Helium. Either download or update to the latest version.
 ## Enable Solana Experience
-Select the settings gear icon from within the Helium wallet app, scroll to the bottom, and toggle on <b>Preview Solana Experience</b>
-
+Select the settings gear icon from within the Helium wallet app, scroll to the bottom, and toggle on <b>Preview Solana Experience<b><br>
+<p align="center">
+<img src="images/developer.png" width="400">
+  </p>
 ## Copy your address
 This is sort of tricky in the new app. You're going to want to hit `Deposit` then `Deeplink`, copy the whole green link, paste it somewhere. You only need <THIS_PART>: `https://wallet.helium.com/payment?payee=<THIS_PART>&defaultTokenType=HNT`. <i>So delete everything up to the first `=`, then the `&` and everything after.</i> 
 You should be left with a brand new sparkly Solana address, but just to be sure, go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see! <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
