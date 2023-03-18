@@ -12,8 +12,8 @@ Depends on what's on it. If you've got HST, veHNT, hotspots, Mobile, or otherwis
 
 # Is HNT dead?
 HNT is the Helium Native Token. The Helium Network currently runs a L1, or Layer 1, blockchain.<br>
-HNT will become an SPL token on the Solana blockchain, meaning ALL HNT anywhere you see it listed today
-will be 'de-listed' and will have to be 're-listed' as an SPL HNT on Solana. The name will not change, but the token contract is on a totally different blockchain.<br><br>
+HNT will become a SPL token on the Solana blockchain, meaning ALL HNT anywhere you see it listed today
+will be 'de-listed' and will have to be 're-listed' as SPL HNT on Solana. The name will not change, but the token contract is on a totally different blockchain.<br><br>
 ALL HNT will become an SPL token. Neither the Helium Network, nor the Native Token, are going away after the migration.<br><br> Those of us building on Solana believe the contrary.
 
 # Why Binance delist?
