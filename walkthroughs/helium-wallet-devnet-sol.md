@@ -19,7 +19,9 @@ Select the settings gear icon from within the Helium wallet app, scroll to the b
 <p align="center">
 <img src="images/developer.png" width="400">
   </p>
-## Copy your address
+  
+## Copy your address <br>
+ 
 This is sort of tricky in the new app. You're going to want to hit `Deposit` then `Deeplink`, copy the whole green link, paste it somewhere. You only need <THIS_PART>: `https://wallet.helium.com/payment?payee=<THIS_PART>&defaultTokenType=HNT`. <i>So delete everything up to the first `=`, then the `&` and everything after.</i> 
 You should be left with a brand new sparkly Solana address, but just to be sure, go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see! <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
 
