@@ -19,7 +19,21 @@ ALL HNT will become an SPL token. Neither the Helium Network, nor the Native Tok
 # Why Binance delist?
 Read that last section again.<br><br>
 <b>ALL HNT anywhere you see it listed today
-will be 'de-listed' and have to be 're-listed' as SPL HNT on Solana</b>
+will be 'de-listed' and have to be 're-listed' as SPL HNT on Solana</b> This is a technicality, the language is confusing. <a href="https://cryptoslate.com/binance-misallocates-20m-heliums-hnt-tokens-in-mistake/" target="_blank">Binance has lost millions of dollars before</a> due to failing to update their system to keep up with Helium. Stopping trading is a simple way for them to insulate themselves from another easily preventable mistake. 
 
 # When Binance relist?
-Ask Binance 
+Ask Binance. You can view their HNT Solana account on devnet <a href="https://explorer.solana.com/address/hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux?cluster=devnet" target="_blank">here.</a><br><br> 
+This is <a href="https://www.binance.com/en/support/announcement/binance-will-delist-hnt-and-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0" target="_blank">Binance's official announcement</a>
+<p align="center">
+<img src="images/binance.png" width="800">
+  </p>
+<br>Key points:<br><br>
+
+<b>Binance will support the Helium (HNT) contract swap on the Solana (SOL) network</b>
+
+
+    Binance will handle all technical requirements involved for all users holding HNT in their Binance accounts.
+
+and
+  
+    Withdrawals of HNT tokens will be reopened at 2023-04-21 03:00 (UTC) and will continue to be supported until 2023-06-24 03:00 (UTC).
