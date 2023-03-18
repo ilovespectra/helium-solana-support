@@ -31,5 +31,6 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 <a href="https://discord.gg/helium" target="_blank">Helium Discord</a><i> - Official Helium community Discord</i><br><br>
 <a href="https://discord.gg/VcfJSfCJ" target="_blank">Metaplex Discord</a><i> - Official Metaplex community Discord</i><br><br>
 <a href="https://discord.gg/BaKgX442" target="_blank">Grizzlython Discord</a><i> - Solana's leading developers competing for huge prizes. A great knowledge base if you don't mind bothering the pros</i><br><br>
-<a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a><i> - A Q&A website for developers</i><br><br>
+<a href="https://solana.stackexchange.com/" target="_blank">Solana Stack Exchange</a><i> - A Q&A website for Solana developers</i><br><br>
+<a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a><i> - Another Q&A website for developers</i><br><br>
 
