@@ -23,5 +23,5 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 ### <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md" target="_blank">Preview Solana Experience / Airdrop</a>
 
-### <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/what-do.md" target="_blank">WHAT DO?!</a>
+### <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/faq.md" target="_blank">FAQs</a>
 
