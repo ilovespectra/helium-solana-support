@@ -9,23 +9,27 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 ## Ecosytem Docs
 
-### <a href="https://docs.solana.com/" target="_blank">Solana Docs</a>
+<a href="https://docs.solana.com/" target="_blank">Solana Docs</a>
 
-### <a href="https://docs.helium.com/" target="_blank">Helium Docs</a>
+<a href="https://docs.helium.com/" target="_blank">Helium Docs</a>
 
 ## Boot Camps
 
-### <a href="https://buildspace.so/builds" target="_blank">Buildspace</a>
-<i>I strongly recommend trying the Buildspace 'Solana Core'</i>
-### <a href="https://docs.solana.com/getstarted/hello-world" target="_blank">Solana Developer Resources</a>
-
-### <a href="https://www.alchemy.com/solana" target="_blank">Alchemy</a>
-
-
+<a href="https://buildspace.so/builds" target="_blank">Buildspace</a>
+<i> - I strongly recommend trying the Buildspace 'Solana Core'</i><br><br>
+<a href="https://docs.solana.com/getstarted/hello-world" target="_blank">Solana Developer Resources</a><br><br>
+<a href="https://www.alchemy.com/solana" target="_blank">Alchemy</a>
 
 ## Walkthroughs
 
-### <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md" target="_blank">Preview Solana Experience / Airdrop</a>
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md" target="_blank">Preview Solana Experience / Airdrop</a>
 
-### <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/faq.md" target="_blank">FAQs</a>
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/faq.md" target="_blank">FAQs</a>
+
+## Communities
+<a href="https://discord.gg/solana-community-926762104667648000" target="_blank">Solana Discord</a><i> - Official Solana community Discord</i><br><br>
+<a href="https://discord.gg/helium" target="_blank">Helium Discord</a><i> - Official Helium community Discord</i><br><br>
+<a href="https://discord.gg/VcfJSfCJ" target="_blank">Metaplex Discord</a><i> - Official Metaplex community Discord</i><br><br>
+<a href="https://discord.gg/BaKgX442" target="_blank">Grizzlython Discord</a><i> - Solana's leading developers competing for huge prizes. A great knowledge base if you don't mind bothering the pros</i><br><br>
+<a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a><i> - A Q&A website for developers</i><br><br>
 
