@@ -50,7 +50,7 @@ HNT, IOT, MOBILE, and all future subDAO tokens on the Helium flywheel will be SP
 <img src="images/devnetphantom.png" width="400">
   </p>
 Simply copy your Phantom wallet address, and send yourself some devnet tokens from the Helium wallet app. 
-<br><i>Your wallet address is the same accross the mainnet, testnet, and devnet networks. This goes for your seedphrase as well!</i><br><b>DO NOT COMPRIMISE YOUR WALLET BY SHARING YOUR "DEVNET" SEEDPHRASE, you only have one seedphrase!</b><br><br>
+<br><i>Your wallet address is the same accross the mainnet, testnet, and devnet networks. This goes for your seedphrase as well!</i><br><b>DO NOT COMPRIMISE YOUR WALLET BY SHARING YOUR "DEVNET SEEDPHRASE", you only have one seedphrase!</b><br><br>
 <p align="center">
 <img src="images/tokens.png" width="400">
   </p>
