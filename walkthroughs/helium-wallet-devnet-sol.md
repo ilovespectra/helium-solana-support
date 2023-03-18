@@ -44,3 +44,13 @@ It is valuable to keep in mind that devnet tokens are not worth real money, but 
 by spamming for multiple requests. There's nothing you can do with 1,000,000 devnet tokens that you can't do with 10.
 <br><br>
 Now go have fun and build something!
+## View HNT on Phantom
+HNT, IOT, MOBILE, and all future subDAO tokens on the Helium flywheel will be SPL tokens, a popular standard supported by a variety of platforms, exchanges, IDEs, etc. To view your devnet tokens in your Solana Phantom wallet, swap to devnet in the Phantom settings by pressing the <img src="images/w1.png" width="20"> icon in the top left corner:<br>
+<p align="center">
+<img src="images/devnetphantom.png" width="400">
+  </p>
+Simply copy your Phantom wallet address, and send yourself some devnet tokens from the Helium wallet app. 
+<br><i>Your wallet address is the same accross the mainnet, testnet, and devnet networks. This goes for your seedphrase as well!</i><br><b>DO NOT COMPRIMISE YOUR WALLET BY SHARING YOUR "DEVNET" SEEDPHRASE, you only have one seedphrase!</b><br><br>
+<p align="center">
+<img src="images/tokens.png" width="400">
+  </p>
