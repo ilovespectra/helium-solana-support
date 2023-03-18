@@ -34,3 +34,9 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 <a href="https://solana.stackexchange.com/" target="_blank">Solana Stack Exchange</a><i> - A Q&A website for Solana developers</i><br><br>
 <a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a><i> - Another Q&A website for developers</i><br><br>
 
+## Resources
+
+<a href="https://solanacookbook.com/#contributing" target="_blank">Solana Cookbook</a><br><br>
+<a href="https://docs.alchemy.com/docs/welcome-to-the-road-to-web3" target="_blank">Alchemy Road to Web3</a><br><br>
+<a href="https://docs.metaplex.com/" target="_blank">Metaplex Docs</a><br><br>
+
