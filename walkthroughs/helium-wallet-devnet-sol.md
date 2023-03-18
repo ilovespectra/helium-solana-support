@@ -15,7 +15,7 @@ If you want to build projects of your own, you may need devnet tokens. Here's ho
 ## Update the Helium Wallet App
 The <a href="https://docs.helium.com/wallets/helium-wallet-app/" target="_blank">Helium Wallet App</a> is the official open source wallet for Helium. Either download or update to the latest version.
 ## Enable Solana Experience
-Select the settings gear icon from within the Helium wallet app, scroll to the bottom, and toggle on <b>Preview Solana Experience<b><br>
+Select the settings gear icon from within the Helium wallet app, scroll to the bottom, and toggle on <b>Preview Solana Experience</b><br>
 <p align="center">
 <img src="images/developer.png" width="400">
   </p>
