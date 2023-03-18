@@ -5,7 +5,7 @@ Your hotspots will be automatically transferred to your new Solana address<br>
 Your HNT will be automatically transferred to your new Solana address<br>
 Your hotspot NFTs will appear in your wallet automatically<br>
 
-HNT held in exchange accounts will be snapshot and migrated to new Solana addresses 
+HNT held in exchange accounts should be snapshot and migrated to new Solana addresses, which is how it should also work in your Helium Wallet App for example.
 
 # Is HNT dead?
 HNT is the Helium Native Token. The Helium Network currently runs a L1, or Layer 1, blockchain.<br>
