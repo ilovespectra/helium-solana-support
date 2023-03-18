@@ -4,8 +4,9 @@ WHAT DO I NEED TO DO before/after the migration?
 Your hotspots will be automatically transferred to your new Solana address<br>
 Your HNT will be automatically transferred to your new Solana address<br>
 Your hotspot NFTs will appear in your wallet automatically<br>
-
-HNT held in exchange accounts should be snapshot and migrated to new Solana addresses, which is how it should also work in your Helium Wallet App for example.
+HNT held in exchange accounts should be snapshot and migrated to new Solana addresses, which is how it should also work in your Helium Wallet App for example.<br><br>
+<b>All IOT hotspots online within 30 days of the migration will be eligible for a pre-mine airdrop. If your hotspot is offline, get it online now! You've got until:
+#### APRIL 18th
 
 # What if I have a Ledger?
 Depends on what's on it. If you've got HST, veHNT, hotspots, Mobile, or otherwise, the word from Helium devs is to temporarily move those to the Helium Wallet App. If you've just got HNT in there, you can simply wait til after the migration. The team said they would release a 'click-next'-style migration wizzard to help.
