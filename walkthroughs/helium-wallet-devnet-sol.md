@@ -21,9 +21,11 @@ Select the settings gear icon from within the Helium wallet app, scroll to the b
   </p>
   
 ## Copy your address <br>
+<p align="center">
+<img src="images/copyaddress.png" width="400">
+  </p>
  
-This is sort of tricky in the new app. You're going to want to hit `Deposit` then `Deeplink`, copy the whole green link, paste it somewhere. You only need <THIS_PART>: `https://wallet.helium.com/payment?payee=<THIS_PART>&defaultTokenType=HNT`. <i>So delete everything up to the first `=`, then the `&` and everything after.</i> 
-You should be left with a brand new sparkly Solana address, but just to be sure, go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see! <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
+Click the settings icon and click `Copy Address`, then go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see your new Helium Wallet address on Solana! <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
 
 ## Airdrop SOL!
 So if you just installed the Solana Tool Suite CLI, you may have just had your first dance with your computer's terminal. <b>GET USED TO IT</b> because it's addicting, and before long you may find yourself taking a Solana boot camp like me!
@@ -31,7 +33,7 @@ The airdrop is simple, just open up a new terminal window and enter this:
 ```
 solana airdrop 2 <YOUR_ADDRESS> --url devnet
 ```
-<i>(Remember to replace `<YOUR_ADDRESS>` with that `<THIS_PART>` from above.)</i><br><br>
+<i>(Remember to replace `<YOUR_ADDRESS>` with your Solana Helium wallet address from above.)</i><br><br>
 You should now see the devnet SOL in your Helium Wallet App!
 ## Airdrop IoT/MOBILE/HNT
 This is a whole lot easier, all you have to do is paste this in your web browser and replace <your-wallet> with your wallet address and viola!:
