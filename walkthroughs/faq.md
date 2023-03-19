@@ -5,7 +5,7 @@ Your hotspots will be automatically transferred to your new Solana address<br>
 Your HNT will be automatically transferred to your new Solana address<br>
 Your hotspot NFTs will appear in your wallet automatically<br>
 HNT held in exchange accounts should be snapshot and migrated to new Solana addresses, which is how it should also work in your Helium Wallet App for example.<br><br>
-<b>All IOT hotspots online within 30 days of the migration will be eligible for a pre-mine airdrop. If your hotspot is offline, get it online now! You've got until:
+<b>All IOT hotspots online within 30 days of the migration will be eligible for a pre-mine airdrop. If your hotspot is offline, get it online now! You've got until:</b>
 #### APRIL 18th
 
 # What if I have a Ledger?
