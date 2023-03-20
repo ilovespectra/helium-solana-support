@@ -25,7 +25,14 @@ Select the settings gear icon from within the Helium wallet app, scroll to the b
 <img src="images/copyaddress.png" width="400">
   </p>
  
-Click the settings icon and click `Copy Address`, then go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see your new Helium Wallet address on Solana! <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
+Click the settings icon and click `Copy Address`, then go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see your new Helium Wallet address on Solana!
+<br><br>
+Swap to devnet on Solscan<br>
+<p align="center">
+<img src="images/solscandevnet.png" width="800">
+  </p>
+ 
+<i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
 
 ## Airdrop SOL!
 So if you just installed the Solana Tool Suite CLI, you may have just had your first dance with your computer's terminal. <b>GET USED TO IT</b> because it's addicting, and before long you may find yourself taking a Solana boot camp like me!
