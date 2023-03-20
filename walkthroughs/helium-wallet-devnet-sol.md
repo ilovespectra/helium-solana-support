@@ -1,4 +1,4 @@
-# Helium Wallet Devnet SOL
+# Preview Solana Experience / Airdrop devnet SOL!
 
 This tutorial will allow you to Preview the Solana experience in your <a href="https://docs.helium.com/wallets/helium-wallet-app/" target="_blank">Helium Wallet App</a>
 and, after <a href="https://docs.solana.com/cli/install-solana-cli-tools" target="_blank">installing the Solana Tool Suite CLI</a> on your machine, airdrop yourself some devnet SOL, HNT, IOT, and MOBILE.<br>
