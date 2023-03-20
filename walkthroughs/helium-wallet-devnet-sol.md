@@ -21,17 +21,19 @@ Select the settings gear icon from within the Helium wallet app, scroll to the b
   </p>
   
 ## Copy your address <br>
+Click the settings icon and click `Copy Address`, then `Solana`:
 <p align="center">
 <img src="images/copyaddress.png" width="400">
   </p>
- 
-Click the settings icon and click `Copy Address`, then go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see your new Helium Wallet address on Solana!
-<br><br>
-Swap to devnet on Solscan<br>
+<p align="center">
+<img src="images/soladdy.png" width="400">
+  </p>
+<br>
+And go paste it in <a href="https://solscan.io/" target="_blank">Solscan</a> and see your new Helium Wallet address on Solana!
+<br><br>Swap to devnet on Solscan:<br>
 <p align="center">
 <img src="images/solscandevnet.png" width="800">
   </p>
- 
 <i>Your Helium wallet address on Solana devnet should already have 1 devnet SOL in there. Neat huh?</i>
 
 ## Airdrop SOL!
