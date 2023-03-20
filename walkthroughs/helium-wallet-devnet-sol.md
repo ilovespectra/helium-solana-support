@@ -21,7 +21,7 @@ Select the settings gear icon from within the Helium wallet app, scroll to the b
   </p>
   
 ## Copy your address <br>
-Click the settings icon and click `Copy Address`, then `Solana`:
+From the Settings menu, click `Copy Address`, then `Solana`:
 <p align="center">
 <img src="images/copyaddress.png" width="400">
   </p>
