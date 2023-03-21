@@ -7,8 +7,7 @@ and, after <a href="https://docs.solana.com/cli/install-solana-cli-tools" target
   </p>
 
 # WARNING
-IF YOUR MAKER APP IS DEEPLINKED TO YOUR WALLET APP, IT WILL AUTOMATICALLY APPROVE TRANSACTIONS LIKE ADDING YOUR HOTSPOT TO THE BLOCKCHAIN. ADDING A HOTSPOT IN YOUR MAKER APP WHILE IN SOLANA PREVIEW MODE WILL ADD YOUR HOTSPOT TO THE SOLANA DEVNET. TRANSACTIONS PERFORMED ON DEVNET ARE EQUALLY AS IMMUTABLE TO THEIR MAINNET COUNTERPARTS. USERS HAVE ADDED THEIR IOT HOTSPOTS TO SOL DEVNET BY MISTAKE THIS WAY, AND ARE MINING DEVNET IOT WHICH HAS NO REAL WORLD VALUE. ALWAYS OPERATE WITH CAUTION AND DILIGENCE WHEN INTERACTING WITH BLOCKCHAIN. 
-
+<i>If your maker app is deeplinked to your wallet app, it will automatically approve transactions like adding your hotspot to the blockchain. Adding a hotspot in your maker app while in solana preview mode will add your hotspot to the solana devnet. Transactions performed on devnet are equally as immutable to their mainnet counterparts. Users have added their iot hotspots to sol devnet by mistake this way, and are mining devnet iot which has no real world value. Always operate with caution and diligence when interacting with blockchain.</i>
 ## Remember!
 Your seedphrase is your password to your wallet. Do not share it with anyone. Do not screen shot, email, or text it to yourself. Write it on paper or engrave it in metal and <b>DO NOT LOSE IT</b>. The devnet is a real copy of the Solana blockchain being provided to allow builders to deploy programs and test transactions.
 If you want to build projects of your own, you may need devnet tokens. Here's how to get them!
