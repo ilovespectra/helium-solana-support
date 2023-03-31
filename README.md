@@ -30,6 +30,8 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/send-usdc.md" target="_blank">Sending USDC on Phantom</a>
 
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/swapping.md" target="_blank">Swapping SPL Tokens using Phantom</a>
+
 ## Educational / Safety
 
 <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/nft-safety.md" target="_blank">NFT/SFT Token Safety</a>
