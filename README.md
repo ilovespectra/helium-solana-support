@@ -26,6 +26,10 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/faq.md" target="_blank">FAQs</a>
 
+## Educational / Safety
+
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/nft-safety.md" target="_blank">NFT/SFT Token Safety</a>
+
 ## Communities
 <a href="https://discord.gg/solana-community-926762104667648000" target="_blank">Solana Discord</a><i> - Official Solana community Discord</i><br><br>
 <a href="https://discord.gg/helium" target="_blank">Helium Discord</a><i> - Official Helium community Discord</i><br><br>
