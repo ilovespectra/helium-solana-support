@@ -2,7 +2,7 @@
 
 You'll need to have some Solana in your account in order to fund the send and request transactions within the Phantom wallet. Purchase SOL using your <a href="https://coinmarketcap.com/currencies/solana/markets/" target="_blank">exchange of choice</a> and send it to your Phantom wallet by copying the address within your app:
 <p align="center">
-<img src="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/images/phantomcopy.png" width="400">
+<img src="images/phantomcopy.png" width="400">
   </p>
 
 
@@ -14,5 +14,5 @@ Select Deposit from the Phantom home screen and select the coin you would like t
 
 All you have to do now is simply show this QR code to your customer and they'll be able to complete the payment transaction on their end.
 <p align="center">
-<img src="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/images/qr.png?raw=true" width="400">
+<img src="images/qr.png" width="400">
   </p>
