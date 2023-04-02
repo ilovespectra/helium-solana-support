@@ -1,3 +1,5 @@
+<i> Estimated read time: 3-4 minutes </i>
+
 # General Safety on Solana 
 ## TL/DR: <i>"Ask questions first, shoot later!"</i>
 SPL (Solana Program Library) tokens are digital assets built on the Solana blockchain. They can represent anything from cryptocurrencies to digital artwork, collectibles, or even real-world assets. While the Solana blockchain has grown in popularity in recent years, so have the risks associated with it. As with any digital asset, there is always a risk of scams and fraudulent activities.
