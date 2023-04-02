@@ -7,6 +7,10 @@ The Solana Ecosystem just turned 3! She's young, and moving fast. Learning devel
 
 Buildspace was the most help for me, but they just announced 'buildspace is dead' and are opening a school. Give it a shot though and see what you can complete, the struggle is valuable to the learning. I'll do my best to try to highlight tutorials and courses here that took the fewest years off my life.
 
+# General Safety Tips
+
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/general-safety.md" target="_blank">General Safety on Solana</a>
+
 ## Ecosytem Docs
 
 <a href="https://docs.solana.com/" target="_blank">Solana Docs</a>
