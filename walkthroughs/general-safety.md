@@ -13,7 +13,7 @@ This is the correct way to engage with cryptocurrencies, NFTs and the broader We
 <i>PRO TIP: You can click view </i>`Raw` <i> in any git repo to verify the links provided lead where they should!</i><br><i>It looks like this:</i>
 
 <p align="center">
-<img src="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/images/raw.png" width="900">
+<img src="images/raw.png" width="900">
   </p>
 
 ## Starting within your Community:
