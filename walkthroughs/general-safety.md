@@ -10,13 +10,17 @@ SPL (Solana Program Library) tokens are digital assets built on the Solana block
 <li>Do not buy NFTs or any collectibles without verifying the source.</li>
 <br>Resources like this, with few/no links are a good indication you're having to do the learning on your own. 
 This is the correct way to engage with cryptocurrencies, NFTs and the broader Web3 community. Scrupulously. Don't fall prey to basic wild-west style scams.<br><br>
-<i>PRO TIP: You can click </i> `view RAW` <i> in any git repo to verify the links provided lead where they should!</i>
+<i>PRO TIP: You can click view </i>`Raw` <i> in any git repo to verify the links provided lead where they should!</i><br><i>It looks like this:</i>
+
+<p align="center">
+<img src="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/images/raw.png" width="900">
+  </p>
 
 ## Starting within your Community:
 Starting off within your community is essential to staying safe within the Solana blockchain community. 
 It is important to be among a community of individuals who can offer advice and support. The 
 Helium network is tried and true, start in the <a href="https://discord.gg/helium" target="_blank">Discord</a>. 
-(<i>Double check the link in </i>`RAW`<i>, it's a great habit to get into. It should read:</i> `"https://discord.gg/helium"`.)
+(<i>Double check the link in </i>`Raw`<i>, it's a great habit to get into. It should read:</i> `"https://discord.gg/helium"`.)
 By participating in the community, you can learn from other members' experiences and stay up-to-date on the latest news and developments 
 within the ecosystems.
 
