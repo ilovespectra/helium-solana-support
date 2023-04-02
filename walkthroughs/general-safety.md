@@ -7,9 +7,9 @@ SPL (Solana Program Library) tokens are digital assets built on the Solana block
 # Fake SUPPORT
 <b>This one is first. This is the worst.</b> This is how the majority of wallet drainings occur. 
 1-on-1 interaction with a stranger.<br><br><b>If you get a DM, it is probably a scam.</b>
-<li> Do not click links.</li><li>Do not enter your seed phrase into any websites.</li>
-<li>Do not take investment advice from strangers.</li>
-<li>Do not buy NFTs or any collectibles without verifying the source.</li>
+<li><b>Do not</b> click links.</</li><li><b>Do not</b> enter your seed phrase into any websites.</li>
+<li><b>Do not</b> take investment advice from strangers.</li>
+<li><b>Do not</b> buy NFTs or any collectibles without verifying the source.</li>
 <br>Resources like this, with few/no links are a good indication you're having to do the learning on your own. 
 This is the correct way to engage with cryptocurrencies, NFTs and the broader Web3 community. Scrupulously. Don't fall prey to basic wild-west style scams.<br><br>
 <i>PRO TIP: You can click view </i>`Raw` <i> in any git repo to verify the links provided lead where they should!</i><br><i>It looks like this:</i><br><br>
