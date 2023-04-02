@@ -10,7 +10,7 @@ SPL (Solana Program Library) tokens are digital assets built on the Solana block
 <li>Do not buy NFTs or any collectibles without verifying the source.</li>
 <br>Resources like this, with few/no links are a good indication you're having to do the learning on your own. 
 This is the correct way to engage with cryptocurrencies, NFTs and the broader Web3 community. Scrupulously. Don't fall prey to basic wild-west style scams.<br><br>
-<i>PRO TIP: You can click view </i>`Raw` <i> in any git repo to verify the links provided lead where they should!</i><br><i>It looks like this:</i>
+<i>PRO TIP: You can click view </i>`Raw` <i> in any git repo to verify the links provided lead where they should!</i><br><i>It looks like this:</i><br><br>
 
 <p align="center">
 <img src="images/raw.png" width="900">
