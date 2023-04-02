@@ -7,7 +7,7 @@ You'll need SOL in your account to fund the transactions, so be sure to make a d
 The easiest way to make sure you're sending funds to the correct account is by scanning a QR which is generated and provided by the app. Simply click the Scan QR button in the top right of the Phantom Wallet app.
 
 <p align="center">
-<img src="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/images/scanqr.png?raw=true" width="400">
+<img src="images/scanqr.png" width="400">
   </p>
 
 ## Complete the payment!
