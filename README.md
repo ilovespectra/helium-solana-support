@@ -13,6 +13,14 @@ Solana is a high-performance blockchain that offers fast transaction processing 
 
 Together, building on the Helium Wireless Network and the Solana blockchain provides a unique opportunity for beginners to explore the possibilities of combining two cutting-edge technologies to create new and innovative solutions. Whether you're interested in creating IoT devices or decentralized applications, both Helium and Solana offer a wealth of resources and support to help you get started.
 
+## Helium Solutions
+
+<li><b>Develop IoT applications:</b> The Helium Network is designed for low-power, long-range IoT devices. Developers can build applications that utilize the network's features, such as LongFi protocol, to create innovative IoT solutions. For example, you could build a smart agriculture system that monitors crop health and weather conditions, or a tracking system for assets in a warehouse.</li>
+<li><b>Create custom hardware:</b> The Helium Network is open-source, which means developers can create their own custom hardware that uses the network. You could design a sensor node that measures temperature, humidity, and air quality, or a gateway that connects devices to the network.</li>
+<li><b>Build software applications:</b> Helium provides APIs and SDKs that developers can use to build software applications that leverage the network. You could create an application that tracks the location of pets or vehicles, or an app that alerts users when air quality in their area is poor.</li>
+<li><b>Participate in mining:</b> Helium is a proof-of-work blockchain, which means community members can participate in mining and earn HNT tokens. You can build your own hotspot, which acts as a gateway to the Helium Network, and earn HNT tokens for providing network coverage.</li>
+<li><b>Contribute to the community:</b> Helium has an active and supportive community of developers, enthusiasts, and users. You can contribute to the community by sharing your knowledge and experience, answering questions, and participating in discussions on social media and forums.</li>
+
 ## Solana Builders!
 
 The Solana Ecosystem just turned 3! She's young, and moving fast. Learning developing on Solana can be tricky for this reason. You may find that walkthroughs from 4-6 months ago are nearly obsolete as modules get renamed, sunsetted, or replaced. Chances are, copy pasting your terminal errors into google won't yield any results. A wise builder once said "if there's copy-code base available for what you're building, you're already late. If there's not, you're onto something before the rest of the world and it's on you to create the docs you seek!"
