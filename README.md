@@ -19,7 +19,15 @@ Together, building on the Helium Wireless Network and the Solana blockchain prov
 <li><b>Create custom hardware:</b> The Helium Network is open-source, which means developers can create their own custom hardware that uses the network. You could design a sensor node that measures temperature, humidity, and air quality, or a gateway that connects devices to the network.</li>
 <li><b>Build software applications:</b> Helium provides APIs and SDKs that developers can use to build software applications that leverage the network. You could create an application that tracks the location of pets or vehicles, or an app that alerts users when air quality in their area is poor.</li>
 <li><b>Participate in mining:</b> Helium is a proof-of-work blockchain, which means community members can participate in mining and earn HNT tokens. You can build your own hotspot, which acts as a gateway to the Helium Network, and earn HNT tokens for providing network coverage.</li>
-<li><b>Contribute to the community:</b> Helium has an active and supportive community of developers, enthusiasts, and users. You can contribute to the community by sharing your knowledge and experience, answering questions, and participating in discussions on social media and forums.</li>
+<li><b>Contribute to the Helium community:</b> Helium has an active and supportive community of developers, enthusiasts, and users. You can contribute to the community by sharing your knowledge and experience, answering questions, and participating in discussions on social media and forums.</li>
+
+## Solana Solutions 
+
+<li><b>Develop decentralized applications (dApps):</b> Solana is a high-performance blockchain that offers fast transaction processing times and low transaction fees. Developers can build dApps that leverage the blockchain's features, such as smart contracts, decentralized storage, and tokenization. You could create a decentralized finance (DeFi) application that allows users to lend and borrow cryptocurrency, or a gaming application that rewards players with digital assets.</li>
+<li><b>Create custom tokens:</b> Solana supports the creation of custom tokens, which can be used for a variety of purposes, such as fundraising, loyalty programs, and voting systems. You could create a token that represents ownership in a real-world asset, such as a piece of artwork or a property.</li>
+<li><b>Build on Solana's ecosystem:</b> Solana has an ecosystem of tools and resources that developers can use to build on the blockchain. You could create a plugin or extension for Solana's wallet, Sollet, or a tool that helps developers deploy and manage smart contracts.</li>
+<li><b>Participate in hackathons:</b> Solana hosts hackathons and other developer events that allow community members to showcase their skills and build innovative solutions on the blockchain. These events often offer prizes and recognition for the best projects.</li>
+<li><b>Contribute to the Solana community:</b> Solana has an active and supportive community of developers, enthusiasts, and users. You can contribute to the community by sharing your knowledge and experience, answering questions, and participating in discussions on social media and forums.</li>
 
 ## Solana Builders!
 
