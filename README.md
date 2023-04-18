@@ -5,6 +5,13 @@ Various support articles to help folks with Solana related Helium questions. Ope
 <img src="walkthroughs/images/solanadiagram.png" width="900">
   </p>
 
+# Helium on Solana
+
+Helium Wireless Network is a decentralized wireless network that allows devices to communicate with each other using the LongFi protocol. One exciting aspect of building on the Helium network is the potential to create innovative applications and devices that can benefit from the network's low-power, long-range capabilities. For example, you could build a sensor network for monitoring environmental conditions or a tracking system for inventory management. As a beginner, you can experiment with the Helium network's APIs and software development kits (SDKs) to create your own custom applications and devices.
+
+Solana is a high-performance blockchain that offers fast transaction processing times and low transaction fees. Building on Solana can be exciting for beginners because it enables you to create decentralized applications (dApps) that can be used in a variety of industries, such as finance, gaming, and social media. With Solana's developer tools and resources, beginners can learn how to build dApps that leverage the blockchain's features, such as smart contracts, decentralized storage, and tokenization.
+
+Together, building on the Helium Wireless Network and the Solana blockchain provides a unique opportunity for beginners to explore the possibilities of combining two cutting-edge technologies to create new and innovative solutions. Whether you're interested in creating IoT devices or decentralized applications, both Helium and Solana offer a wealth of resources and support to help you get started.
 
 ## Solana Builders!
 
