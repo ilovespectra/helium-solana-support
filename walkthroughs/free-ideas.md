@@ -6,7 +6,7 @@ Furthermore, Solana's support for smart contracts could enable the development o
 
 ## Want some motivation? 
 
-<b>Here are 32 different ways Helium-enabled devices could power DApps on Solana:</b>
+<b>Here are over 30 different ways Helium-enabled devices could power DApps on Solana:</b>
 
 <li><b>Asset tracking:</b> Developers could create DApps that track assets, such as vehicles or shipping containers, using Helium network-enabled tracking devices. These tracking devices could be connected to the Helium network and provide real-time location data, which could be stored on the Solana blockchain for easy access and verification.</li><br>
 
@@ -71,3 +71,11 @@ Furthermore, Solana's support for smart contracts could enable the development o
 <li><b>Autonomous vehicles:</b> Helium network-enabled devices could be used to create autonomous vehicle systems, such as self-driving cars and drones that can operate safely and efficiently in real-world environments.</li><br>
 
 <li><b>Retail:</b> Helium network-enabled devices could be used to create personalized shopping experiences, such as smart mirrors that provide real-time product recommendations based on a customer's preferences and purchase history.</li><br>
+
+<li><b>Waste recycling:</b>  Helium network-enabled devices could be used to improve waste recycling efforts, such as smart recycling bins that can sort and separate recyclable materials in real-time.</li><br>
+
+<li><b>Agriculture management:</b>  Helium network-enabled devices could be used to optimize agriculture management, such as smart irrigation systems that can monitor and adjust water usage based on weather conditions and crop needs.</li><br>
+
+<li><b>Public transportation:</b>  Helium network-enabled devices could be used to improve public transportation systems, such as smart bus stops that provide real-time arrival and departure information, as well as route planning and navigation assistance.</li><br>
+
+<li><b>Healthcare:</b>  Helium network-enabled devices could be used to improve healthcare outcomes, such as remote patient monitoring devices that can collect and analyze real-time health data, enabling healthcare providers to make more informed treatment decisions.</li><br>
