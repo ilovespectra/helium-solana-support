@@ -91,8 +91,8 @@ Public transportation management</li><br>
 Personal finance</li><br>
 Identity verification</li><br>
 Asset management</li><br>
-Real-time traffic monitoring</li><br>
-Livestock monitoring</li><br>
+<b>Real-time traffic monitoring</b></li><br>
+<b>Livestock monitoring</b></li><br>
 Electric vehicle charging</li><br>
 Air quality monitoring</li><br>
 Waste management</li><br>
@@ -109,7 +109,7 @@ Supply chain transparency</li><br>
 Peer-to-peer lending</li><br>
 Smart energy grid management</li><br>
 Home automation</li><br>
-Distributed file storage</li><br>
+<b>Distributed file storage</b></li><br>
 Digital art marketplace</li><br>
 Supply chain traceability</li><br>
 Event ticketing</li><br>
@@ -135,9 +135,9 @@ Carbon credit trading</li><br>
 Event promotion</li><br>
 Energy grid demand prediction</li><br>
 Autonomous vehicle management</li><br>
-Wearable technology for health tracking</li><br>
-Emergency response management</li><br>
-Parking space sharing</li><br>
+<b>Wearable technology for health tracking</b></li><br>
+<b>Emergency response management</b></li><br>
+<b>Parking space sharing</b></li><br>
 Distributed ride sharing</li><br>
 Real estate investment trusts (REITs)</li><br>
 Real estate asset tokenization</li><br>
