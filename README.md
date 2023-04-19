@@ -86,5 +86,5 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 ## Inspiration 
 
-<a href="https://github.com/ilovespectra/helium-solana-support/tree/main/walkthroughs/free-ideas.md" target="_blank">32 ideas</a> - 32 different projects that would leverage Helium-enabled devices for DApps on the Solana blockchain.
+<a href="https://github.com/ilovespectra/helium-solana-support/tree/main/walkthroughs/free-ideas.md" target="_blank">100+ ideas</a> - Over 100 different ideas that would leverage Helium-enabled devices for DApps on the Solana blockchain.
 
