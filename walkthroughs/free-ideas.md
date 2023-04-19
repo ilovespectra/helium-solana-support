@@ -79,3 +79,108 @@ Furthermore, Solana's support for smart contracts could enable the development o
 <li><b>Public transportation:</b>  Helium network-enabled devices could be used to improve public transportation systems, such as smart bus stops that provide real-time arrival and departure information, as well as route planning and navigation assistance.</li><br>
 
 <li><b>Healthcare:</b>  Helium network-enabled devices could be used to improve healthcare outcomes, such as remote patient monitoring devices that can collect and analyze real-time health data, enabling healthcare providers to make more informed treatment decisions.</li><br>
+
+## Ask GPT to Elaborate on these
+
+I asked for 100 ideas without descriptions, some of these are a little vauge to me. Ask GPT "How could I leverage Helium and Solana to improve ____"
+
+Digital advertising</li><br>
+Logistics management</li><br>
+Parking management</li><br>
+Public transportation management</li><br>
+Personal finance</li><br>
+Identity verification</li><br>
+Asset management</li><br>
+Real-time traffic monitoring</li><br>
+Livestock monitoring</li><br>
+Electric vehicle charging</li><br>
+Air quality monitoring</li><br>
+Waste management</li><br>
+Water quality monitoring</li><br>
+Aviation management</li><br>
+Energy usage monitoring</li><br>
+Climate data analysis</li><br>
+Public health monitoring</li><br>
+Agriculture yield prediction</li><br>
+Supply chain financing</li><br>
+Medical records management</li><br>
+Livestreaming</li><br>
+Supply chain transparency</li><br>
+Peer-to-peer lending</li><br>
+Smart energy grid management</li><br>
+Home automation</li><br>
+Distributed file storage</li><br>
+Digital art marketplace</li><br>
+Supply chain traceability</li><br>
+Event ticketing</li><br>
+Crowdfunding</li><br>
+Renewable energy trading</li><br>
+Food safety tracking</li><br>
+Water conservation</li><br>
+Decentralized insurance</li><br>
+Smart contract-based employment agreements</li><br>
+Distributed content distribution</li><br>
+Virtual reality experiences</li><br>
+Airline ticketing</li><br>
+Carbon offsetting</li><br>
+Charity donation tracking</li><br>
+Smart waste bins</li><br>
+Online education</li><br>
+Digital property ownership</li><br>
+Asset leasing</li><br>
+Tokenized investment funds</li><br>
+Crowdsourced weather data collection</li><br>
+Decentralized social media</li><br>
+Carbon credit trading</li><br>
+Event promotion</li><br>
+Energy grid demand prediction</li><br>
+Autonomous vehicle management</li><br>
+Wearable technology for health tracking</li><br>
+Emergency response management</li><br>
+Parking space sharing</li><br>
+Distributed ride sharing</li><br>
+Real estate investment trusts (REITs)</li><br>
+Real estate asset tokenization</li><br>
+Carbon-neutral supply chain management</li><br>
+Energy consumption optimization</li><br>
+Supply chain risk management</li><br>
+Decentralized ride-hailing</li><br>
+Online marketplaces</li><br>
+Distributed task management</li><br>
+Intellectual property registration</li><br>
+Supply chain inventory management</li><br>
+Online voting</li><br>
+Decentralized energy trading</li><br>
+Supply chain tracking</li><br>
+Sustainable packaging tracking</li><br>
+Product authenticity verification</li><br>
+Medical research data sharing</li><br>
+Decentralized autonomous organizations (DAOs)</li><br>
+Crypto debit cards</li><br>
+Cross-border payments</li><br>
+Solar panel asset tokenization</li><br>
+Cloud computing marketplaces</li><br>
+Carbon footprint tracking</li><br>
+Sustainable fashion tracking</li><br>
+Cryptocurrency payment processing</li><br>
+Inclusive banking services</li><br>
+Online dispute resolution</li><br>
+Distributed credit scoring</li><br>
+Sustainable building management</li><br>
+Remote work collaboration</li><br>
+Decentralized content creation and distribution</li><br>
+Automated invoicing</li><br>
+Loyalty rewards programs</li><br>
+Cryptocurrency exchange platforms</li><br>
+Decentralized data storage</li><br>
+Environmental offsetting platforms</li><br>
+Distributed e-commerce platforms</li><br>
+Autonomous drone delivery</li><br>
+Virtual event platforms</li><br>
+Supply chain auditing</li><br>
+Smart contract-based asset exchange</li><br>
+Blockchain-based crowdfunding for startups</li><br>
+Tokenized real estate crowdfunding</li><br>
+Decentralized academic record keeping</li><br>
+Distributed risk assessment</li><br>
+Tokenized crowdfunding for non-profits.</li><br>
