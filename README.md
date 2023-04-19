@@ -84,3 +84,7 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 <a href="https://docs.alchemy.com/docs/welcome-to-the-road-to-web3" target="_blank">Alchemy Road to Web3</a><br><br>
 <a href="https://docs.metaplex.com/" target="_blank">Metaplex Docs</a><br><br>
 
+## Inspiration 
+
+<a href="https://github.com/ilovespectra/helium-solana-support/tree/main/walkthroughs/free-ideas.md" target="_blank">32 ideas</a> - 32 different projects that would leverage Helium-enabled devices for DApps on the Solana blockchain.
+
