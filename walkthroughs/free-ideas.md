@@ -184,3 +184,9 @@ Tokenized real estate crowdfunding</li><br>
 Decentralized academic record keeping</li><br>
 Distributed risk assessment</li><br>
 Tokenized crowdfunding for non-profits.</li><br>
+
+## Ask for 50 specifics 
+
+Ask GPT to give you 50 ways you can improve a single industry and watch it go brr 
+
+<a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/elaborate.md" target="_blank">Examples</a>
