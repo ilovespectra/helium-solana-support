@@ -43,7 +43,7 @@ YOUR_DAO/img/yourlogo.png
 
 -Navigate back to `public/realms` and scroll all the way down to `mainnet-beta.json`
 
--Hit `Edit`, scroll to the bottom, and copy paste the last entry<br>
+-Hit `Edit`, scroll to the bottom, and copy/paste the last entry and modify<br>
 
 <i>Be mindful to add a comma before your metadata, and deleting the comma after.</i>
 
