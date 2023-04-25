@@ -6,14 +6,14 @@ Solana Realms have created a slick UI that allows anyone with a Solana wallet to
 
 Navigate to <a href="https://app.realms.today/" target="_blank">Realms</a> within your Solana wallet browser and select `Create DAO`
 <p align="center">
-<img src="walkthroughs/images/create.png" width="800">
+<img src="/images/create.png" width="800">
   </p>
 
 ## Select Type 
 
 Multisig Wallets, NFT Community DAO, or Community Token DAO:
 <p align="center">
-<img src="walkthroughs/images/realms.png" width="800">
+<img src="/images/realms.png" width="800">
   </p>
 
 ## Customize
@@ -29,7 +29,7 @@ Swipe to complete the transaction to create your DAO
 This part was fun. In order to update your icon and metadata, you'll need to fork the <a href="https://github.com/solana-labs/governance-ui" target="_blank">Governance UI</a>.
 
 <p align="center">
-<img src="walkthroughs/images/fork.png" width="800">
+<img src="/images/fork.png" width="800">
   </p>
   
 Create a folder in your computer with the name of your DAO, inside that folder create a folder labeled `img`, and put your logo file inside there. It should look like this:
