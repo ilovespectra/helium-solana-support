@@ -64,6 +64,8 @@ Buildspace was the most help for me, but they just announced 'buildspace is dead
 
 <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/swapping.md" target="_blank">Swapping SPL Tokens using Phantom</a>
 
+<a href="walkthroughs/realms-guide.md" target="_blank">Setup a DAO on Realms</a>
+
 ## Educational / Safety
 
 <a href="https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/hnt-on-sol.md" target="_blank">Helium Native Token (HNT) on Solana</a>
