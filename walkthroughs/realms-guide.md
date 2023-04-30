@@ -26,7 +26,7 @@ Swipe to complete the transaction to create your DAO
 
 ## Metadata
 
-This part was fun. In order to update your icon and metadata, you'll need to fork the <a href="https://github.com/solana-labs/governance-ui" target="_blank">Governance UI</a>.
+This part was fun. In order to update your icon and metadata, you'll need to fork the <a href="https://github.com/solana-labs/governance-ui" target="_blank">Governance UI</a>. (Or see <a href="https://github.com/ilovespectra/helium-solana-support/edit/main/walkthroughs/realms-guide.md#or" target="_blank"> #OR </a> below.)
 
 <p align="center">
 <img src="/walkthroughs/images/fork.png" width="800">
@@ -78,3 +78,7 @@ It should look like this:
 ## Submit a PR
 
 Click `Pull Requests` at the top of your repo and create a new PR, then head to the <a href="https://discord.gg/4sXW9xgQ23" target="_blank">Realms Discord</a>, get verified, and navigate to `#governance-ui` and let drop a screnshot of your PR to let the kind folks know to merge your request!
+
+# OR
+
+It looks like a lot of the metaplex data can be added through the desktop or mobile UI. If you don't have any interest forking and submitting a pull request, you can easily forego the need thanks to some simple interfacing Realms has enabled.
